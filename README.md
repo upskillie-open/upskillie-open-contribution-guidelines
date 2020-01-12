@@ -32,7 +32,8 @@ There will be two common branches - `master` & `dev`
  1.  This branch will only contain production code
  2.  Everyone should `checkout` from __master__ branch to create a `feature` or a `bugfix` branch
  3.  Steps involved:
-    - ```
+    
+    ```
       git checkout master 
       // Checking out to master branch
 
